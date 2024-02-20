@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Сулейман I",
+    "title": "Султан Сулейман",
+    "description": "Османский султан",
+    "person_photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTA6ODKdRzXTIt9sSI2ljSPYQIJ8MHw_nJDcw&usqp=CAU"
+  },
+  {
+    "name": "Хюррем Султан",
+    "title": "Хюррем Хатун",
+    "description": "Жена султана Сулеймана",
+    "person_photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTK3wew5307HpUHPklMaXtu45vdTQGXtRi7Ug&usqp=CAU"
+  },
+  {
+    "name": "Ибрагим Паша",
+    "title": "Ибрагим-паша",
+    "description": "Визирь и близкий друг султана",
+    "person_photo": "https://clutch.net.ua/images/2020/08/22/PqyMfLOLtAcCTg2C3YRELSGZ88XJM7mit0PNRVhi.jpeg"
+  }
+]
